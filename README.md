@@ -2,11 +2,11 @@
 
 I'm Stefan, I study Computing at Imperial College London
 
-##### Links
+#### Links
 * [stefan.radzi.uk](https://stefan.radzi.uk/)
 * [linkedin](https://www.linkedin.com/in/stefanradziuk)
 
-##### Wave Function Collapse
+#### Wave Function Collapse
 Check out [the repo](https://github.com/ic-pcg/waveFunctionCollapse) for more details.
 <div style="display: inline-block; padding: 10;">
   <img title="wfc_demo_0" src="https://user-images.githubusercontent.com/7904551/88476982-4c164b80-cf34-11ea-8c6e-58ab91a4dc60.png" height="100px">
