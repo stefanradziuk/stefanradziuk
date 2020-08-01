@@ -2,14 +2,12 @@
 
 I'm Stefan, I study Computing at Imperial College London
 
-#### Links
 * [stefan.radzi.uk](https://stefan.radzi.uk/)
-* [linkedin](https://www.linkedin.com/in/stefanradziuk)
+* [linkedin/stefanradziuk](https://www.linkedin.com/in/stefanradziuk)
 
 #### Wave Function Collapse
 
 Implementation of [@mxgmn](https://github.com/mxgmn)'s [Wave Function Collapse Algorithm](https://github.com/mxgmn/WaveFunctionCollapse) in C.
-
 Check out [the repo](https://github.com/ic-pcg/waveFunctionCollapse) for more details.
 
 <div style="display: inline-block; padding: 10;">
@@ -24,7 +22,6 @@ Check out [the repo](https://github.com/ic-pcg/waveFunctionCollapse) for more de
 #### population_simulator
 
 Visualising the effect of social distancing on infectious disease spread via a physic-based simulation.
-
 Check out [the repo](https://github.com/stefanradziuk/population_simulator) for more details.
 
 <img title="population_simulator_demo" src="https://github.com/stefanradziuk/population_simulator/raw/master/population_simulator_demo.gif" height="250px">
